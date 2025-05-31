@@ -3,6 +3,7 @@ export default function Content() {
     <section style={{ padding: '2rem' }}>
       <h2>Om Boken</h2>
       <p>Denna bok ger insikter om NPF ur ett livserfaret perspektiv.</p>
+      <p>Jag kommer lägga in mer text</p>
     </section>
   );
 }
